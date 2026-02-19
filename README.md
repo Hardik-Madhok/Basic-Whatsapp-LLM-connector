@@ -6,7 +6,7 @@ A production-ready FastAPI application that integrates WhatsApp Business API wit
 
 - 🖼️ **Image Analysis** - Send images via WhatsApp and get AI-powered descriptions
 - 💬 **Question Answering** - Ask any question and get intelligent responses
-- 🤖 **Powered by Gemini** - Uses Google's Gemini 1.5 Flash for fast, accurate AI responses
+- 🤖 **Powered by Gemini** - Uses Google's Gemini 2.5 Flash for fast, accurate AI responses
 - ⚡ **Real-time** - Instant webhook-based message processing
 - 🔒 **Secure** - Environment-based configuration and validation
 - 📊 **Logging** - Comprehensive logging for debugging and monitoring
